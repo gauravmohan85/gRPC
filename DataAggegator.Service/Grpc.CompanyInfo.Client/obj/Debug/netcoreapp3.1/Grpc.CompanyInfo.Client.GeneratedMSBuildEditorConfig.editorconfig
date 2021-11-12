@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Grpc.CompanyInfo.Client
+build_property.ProjectDir = C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\

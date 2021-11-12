@@ -1,0 +1,5 @@
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.CompanyInfo.Client.csprojAssemblyReference.cache
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.CompanyInfo.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.CompanyInfo.Client.AssemblyInfoInputs.cache
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.CompanyInfo.Client.AssemblyInfo.cs
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.CompanyInfo.Client.csproj.CoreCompileInputs.cache

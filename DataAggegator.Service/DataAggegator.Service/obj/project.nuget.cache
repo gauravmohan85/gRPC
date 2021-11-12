@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "yr0Sw83kIWaVX73jIjBrGouo/K6XE2VSdTg7f4u22vv5B/EnaNYrqD4TKaitfmZNVpPsLO+arx7ALzW/HFvnqw==",
+  "success": true,
+  "projectFilePath": "C:\\gRPC\\DataAggegator.Service\\DataAggegator.Service\\DataAggegator.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\grpc.core.api\\2.39.1\\grpc.core.api.2.39.1.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\grpc.net.client\\2.39.0\\grpc.net.client.2.39.0.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\grpc.net.common\\2.39.0\\grpc.net.common.2.39.0.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\BH87TJ\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

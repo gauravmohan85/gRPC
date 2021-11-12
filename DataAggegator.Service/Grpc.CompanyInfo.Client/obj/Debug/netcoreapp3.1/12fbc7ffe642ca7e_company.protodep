@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Protos/Company.cs \
+obj\Debug\netcoreapp3.1\Protos/CompanyGrpc.cs: Protos/company.proto

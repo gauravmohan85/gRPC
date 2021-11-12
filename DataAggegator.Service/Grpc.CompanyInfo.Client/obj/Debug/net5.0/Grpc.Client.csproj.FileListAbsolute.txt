@@ -1,0 +1,12 @@
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\bin\Debug\net5.0\Grpc.Client.deps.json
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\bin\Debug\net5.0\Grpc.Client.dll
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\bin\Debug\net5.0\ref\Grpc.Client.dll
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\bin\Debug\net5.0\Grpc.Client.pdb
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.Client.csprojAssemblyReference.cache
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.Client.AssemblyInfoInputs.cache
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.Client.AssemblyInfo.cs
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.Client.csproj.CoreCompileInputs.cache
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.Client.dll
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\ref\Grpc.Client.dll
+C:\Users\BH87TJ\source\repos\DataAggegator.Service\Grpc.CompanyInfo.Client\obj\Debug\net5.0\Grpc.Client.pdb

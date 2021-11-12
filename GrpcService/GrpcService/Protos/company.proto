@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+package company;
+
+service CompanyInfo {
+  rpc GetEmployeeForEmpId (Employee) returns (Employee);
+  rpc GetAllEmployees (GetAllEmployeesParams) returns (Employees);
+}
+
+message Employee {
+  int32  employee_id = 1;
+  string first_name = 2;
+  string last_name = 3;
+  string location = 4;
+  string department = 5;
+  string seat_no = 6;
+}
+
+message GetAllEmployeesParams {
+}
+
+message Employees {
+  repeated Employee employee = 1;
+}
